@@ -1,0 +1,4 @@
+To make app run correctly you have to set WorkingDir in QtCreator to folder where you have downloaded
+project. It's because images have to be mapped from project directory.
+
+Also you have to use Qt 5.9.0 MinGW 32bit SDK set.
